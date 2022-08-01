@@ -2,6 +2,8 @@
   "name": "ff-app-vue",
   "version": "1.0.0",
   "scripts": {
+    "commit": "git pull && git commit --allow-empty -am \"fix: empty commit for testing\" && git push",
+    "commit-with-pipe": "cd ../ff-iac-github-actions; npm run commit && cd ../ff-app-vue; npm run commit",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port 4173"
