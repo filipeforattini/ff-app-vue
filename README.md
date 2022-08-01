@@ -6,7 +6,7 @@ This repository is an example of a `svc` to be built with [filipeforattini/ff-ia
 
 | Language | Framework | Docker |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="vue" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original-wordmark.svg" title="vue" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="vue" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="vue" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="vue" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="vue" width="40" height="40"/> |
 | Node 17 | 18 | 1.23-alpine |
 
 
