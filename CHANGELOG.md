@@ -1,3 +1,11 @@
+## [1.0.25](https://github.com/filipeforattini/ff-app-vue/compare/v1.0.24...v1.0.25) (2022-08-08)
+
+
+### Bug Fixes
+
+* empty commit for testing ([8fec5a5](https://github.com/filipeforattini/ff-app-vue/commit/8fec5a51793676686a1cb808aaaf180b58ea5e95))
+* empty commit for testing ([a79e5ab](https://github.com/filipeforattini/ff-app-vue/commit/a79e5abc128a2183a139b11a77705cab94054352))
+
 ## [1.0.24](https://github.com/filipeforattini/ff-app-vue/compare/v1.0.23...v1.0.24) (2022-08-08)
 
 
