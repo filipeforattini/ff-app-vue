@@ -21,7 +21,7 @@ on:
         - prd
         - sbx
         - dry
-        
+
 jobs:
 
   APP:
@@ -32,5 +32,4 @@ jobs:
       platforms: linux/amd64,linux/arm64
       staticAnalysis: false
       containerRegistry: ghcr.io
-      nodeMatrix: '[17]'
       environmentsAsNamespaces: true
