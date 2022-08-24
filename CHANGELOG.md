@@ -1,3 +1,19 @@
+## [1.0.79](https://github.com/filipeforattini/ff-app-vue/compare/v1.0.78...v1.0.79) (2022-08-24)
+
+
+### Bug Fixes
+
+* empty commit for testing ([1af7b2b](https://github.com/filipeforattini/ff-app-vue/commit/1af7b2b52d2983b51b653eb6a423eab772c8ce10))
+* empty commit for testing ([2c00c83](https://github.com/filipeforattini/ff-app-vue/commit/2c00c837b354066425d5bf1a2b2294b19a7c3406))
+* empty commit for testing ([d198e0b](https://github.com/filipeforattini/ff-app-vue/commit/d198e0bf0faf3a37bd4f68c4b67e2228dcd2890b))
+* empty commit for testing ([b1af845](https://github.com/filipeforattini/ff-app-vue/commit/b1af845de8847337e2896c97fd1849502e2a634d))
+* empty commit for testing ([8bee63d](https://github.com/filipeforattini/ff-app-vue/commit/8bee63dde04b8a7ab624c93da784945bd552a2d3))
+* empty commit for testing ([99bf7c5](https://github.com/filipeforattini/ff-app-vue/commit/99bf7c550183fe8453bef409b8dd945e4be4562c))
+* empty commit for testing ([c730f68](https://github.com/filipeforattini/ff-app-vue/commit/c730f682557817fa339b8bbda3cbd174b51900df))
+* empty commit for testing ([afe4031](https://github.com/filipeforattini/ff-app-vue/commit/afe4031dc4e1564ec116177e9a3de378bf89c15d))
+* empty commit for testing ([b68df08](https://github.com/filipeforattini/ff-app-vue/commit/b68df081bb71176eac41ed531919615c646c3fb2))
+* empty commit for testing ([8328942](https://github.com/filipeforattini/ff-app-vue/commit/832894247b3d5620e9771db6a05f20f91e966167))
+
 ## [1.0.78](https://github.com/filipeforattini/ff-app-vue/compare/v1.0.77...v1.0.78) (2022-08-17)
 
 
